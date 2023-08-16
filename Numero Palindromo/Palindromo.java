@@ -1,5 +1,5 @@
 public class Palindromo {
-    public static bool NumeroPalindromo (int x)
+    public static boolean NumeroPalindromo (int x)
     {
         if(x < 0 || (x != 0 && x % 10 == 0)){
             return false;
