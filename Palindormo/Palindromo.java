@@ -15,4 +15,7 @@ public class Palindromo {
         
         return (x == reversa) || (x == reversa / 10);
     }
+    public static main(String[] args){
+        
+    }
 }
